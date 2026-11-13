@@ -1,4 +1,4 @@
-package Java.PBO.prak7;
+package PBO_P7_L0325014_TiaraBelvaPratisha;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
