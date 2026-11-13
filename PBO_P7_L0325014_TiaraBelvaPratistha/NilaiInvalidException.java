@@ -1,4 +1,4 @@
-package Java.PBO.prak7;
+package PBO_P7_L0325014_TiaraBelvaPratisha;
 
 // CUSTOM EXCEPTION: dilempar jika nilai di luar rentang 0 - 100
 public class NilaiInvalidException extends Exception {
