@@ -1,0 +1,12 @@
+LAPORAN NILAI SISWA
+==================================================
+No   Nama                        Nilai  Status
+--------------------------------------------------
+1    Tera                        80.00  Lulus
+2    Pedan                       60.00  Tidak Lulus
+3    Jaki                        70.00  Lulus
+--------------------------------------------------
+Rata-rata nilai kelas : 70.00
+Jumlah lulus          : 2
+Jumlah tidak lulus    : 1
+==================================================
